@@ -21,4 +21,4 @@ Copyright: (C) 2022 Teppei1
 
 [ねぎ.pdf](negi.pdf)
 
-[wikipedia](http://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE%)
+[wikipedia](http://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
