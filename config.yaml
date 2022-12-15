@@ -1,12 +1,12 @@
 links:
-  - text: 'top'
+  - text: 'マスクについて'
     href: '/?page=top'
-  - text: '開発日誌（ブログ）'
-    href: '/?post'
-  - text: '外部サイト'
+  - text: '家庭用マスク'
+    href: '/?post'  
+  - text: '捨て方'
     href: './'
     sublinks:
-    - text: '旧bashcms'
+    - text: '方法'
       href: 'http://test.usptomo.com'
-    - text: '作者ブログ'
+    - text: '環境'
       href: 'https://b.ueda.tech/'
