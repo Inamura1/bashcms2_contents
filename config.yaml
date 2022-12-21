@@ -2,7 +2,7 @@ links:
   - text: 'マスクについて'
     href: '/?page=top'
   - text: '家庭用マスク'
-    href: '/?post'  
+    href: '/?post' 
   - text: '捨て方'
     href: './'
     sublinks:
