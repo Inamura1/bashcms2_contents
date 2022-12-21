@@ -19,6 +19,6 @@ links:
     href: './'
     sublinks:
     - text: '方法'
-      href: 'http://test.usptomo.com'
+      href: '/?page=houho'
     - text: '環境'
-      href: 'https://b.ueda.tech/'
+      href: '/?page=kankyo'
