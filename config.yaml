@@ -1,8 +1,20 @@
 links:
   - text: 'マスクについて'
     href: '/?page=top'
+    sublinks:
+    - text: 'マスクとは'
+      href: '/?page=mask'
+    - text: '歴史'
+      href: '/?page=history'
   - text: '家庭用マスク'
-    href: '/?post' 
+    href: '/?post'
+    sublinks:
+    - text: '布製マスク'
+      href: '/?page=nuno'
+    - text: '不織布マスク'
+      href: '/?page=hushokuhu'
+    - text: 'ウレタンマスク'
+      href: '/?page=uretan' 
   - text: '捨て方'
     href: './'
     sublinks:
