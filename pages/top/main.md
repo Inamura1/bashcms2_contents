@@ -10,7 +10,7 @@ Copyright: (c) 2022 Teppei Inamura
 
 ## 47都道府県別 マスクのポイ捨ての量
 
-![都道府県](todohuken.JPG)
+![都道府県](/todohuken1/todohuken.JPG)
 
 
 
