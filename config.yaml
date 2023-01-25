@@ -15,10 +15,10 @@ links:
       href: '/?page=hushokuhu'
     - text: 'ウレタンマスク'
       href: '/?page=uretan' 
-  - text: '捨て方'
+  - text: 'ポイ捨て削減に向けて'
     href: './'
     sublinks:
-    - text: '方法'
+    - text: '正しい捨て方'
       href: '/?page=houho'
     - text: '環境'
       href: '/?page=kankyo'
